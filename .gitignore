@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+Debug/
+Release/
+publish/
+dist/
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Local configs (can contain paths or secrets)
+*.userosscache
+*.dbmdl
+*.db
+*.sqlite
+*.config
+*.json
