@@ -1,4 +1,4 @@
-Client–Server Network (Custom UDP DNS)
+# Client–Server Network (Custom UDP DNS)
 
 This project is a **custom DNS client–server system** built in **C# (.NET)** using **UDP sockets**.  
 This assignment was made for my Networking class, which focuses on implementing a simplified DNS protocol using raw socket communication.
